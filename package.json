@@ -1,0 +1,11 @@
+{
+  "name": "save-file-plugin",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "save-file-plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "description": "Plugin para guardar archivos en Android versión 11"
+}
